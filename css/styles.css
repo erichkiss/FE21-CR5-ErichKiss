@@ -1,0 +1,13 @@
+#locations_card {
+    background-color: rgb(239, 248, 248);
+    color: lightskyblue;
+}
+
+#restaurant_card {
+    background-color:rgb(212, 212, 212);
+    color: rgb(35, 136, 35);
+}
+
+#events_card {
+    background-color: rgb(255, 255, 179);
+}
